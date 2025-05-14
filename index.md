@@ -4,7 +4,7 @@ body {
   color: #00ffff;
 }
   body {
-  background: url('https://example.com/stars.jpg');
+  background: url(images/屏幕截图 2025-05-14 132219.png);
   background-size: cover;
 </style>
 # 三体往事
