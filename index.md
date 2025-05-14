@@ -1,5 +1,20 @@
 <style>
 body {
+  background-image: url('images/屏幕截图 2025-05-14 132219.png');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.markdown-body {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 30px;
+  border-radius: 10px;
+}
+</style>
+//<style>
+body {
   background: #000;
   color: #00ffff;
 }
