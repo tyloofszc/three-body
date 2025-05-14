@@ -1,3 +1,12 @@
+<style>
+body {
+  background: #000;
+  color: #00ffff;
+}
+  body {
+  background: url('https://example.com/stars.jpg');
+  background-size: cover;
+</style>
 # 三体往事
 # 三体监听中枢
 > 坐标：半人马座α星C轨道 · 第191代监听站
