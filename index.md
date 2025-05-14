@@ -1,7 +1,11 @@
 <style>
+body {
+  background: #000;
+  color: #00ffff;
+}
   body {
-  background: url(images/屏幕截图 2025-05-14 132219.png);
-  background-size: cover;
+  background: linear-gradient(45deg, #001122, #003366);
+}
 </style>
 # 三体往事
 # 三体监听中枢
