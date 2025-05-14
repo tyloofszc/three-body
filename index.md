@@ -1,8 +1,4 @@
 <style>
-body {
-  background: #000;
-  color: #00ffff;
-}
   body {
   background: url(images/屏幕截图 2025-05-14 132219.png);
   background-size: cover;
