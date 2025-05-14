@@ -13,15 +13,7 @@ body {
   border-radius: 10px;
 }
 </style>
-//<style>
-body {
-  background: #000;
-  color: #00ffff;
-}
-  body {
-  background: linear-gradient(45deg, #001122, #003366);
-}
-</style>
+
 # 三体往事
 # 三体监听中枢
 > 坐标：半人马座α星C轨道 · 第191代监听站
